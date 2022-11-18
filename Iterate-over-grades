@@ -1,0 +1,5 @@
+let grades = [10, 18, 14, 15]
+
+grades.forEach(function(grade) {
+console.log(grade)
+})
